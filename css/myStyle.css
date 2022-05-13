@@ -1,2 +1,5 @@
 p {color: green;}
+p[one] {color: blue;}
+p[two] {color: red;}
+p[three] {color: purple;}
 div p {color: brown;}
